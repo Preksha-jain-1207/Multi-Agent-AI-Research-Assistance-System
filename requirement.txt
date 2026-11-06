@@ -18,3 +18,5 @@ python-dotenv
 pydantic
 
 streamlit
+langchain-ollama
+duckduckgo-search
